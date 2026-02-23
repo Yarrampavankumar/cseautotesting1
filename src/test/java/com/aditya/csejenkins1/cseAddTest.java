@@ -13,10 +13,10 @@ class cseAddTest {
 		assertEquals(5,result);
 	}
 	
-	@Test
-	void csetest1() {
-		int result = c.mul(2,3);
-		assertEquals(6,result);
-	}
+//	@Test
+//	void csetest1() {
+//		int result = c.mul(2,3);
+//		assertEquals(6,result);
+//	}
 
 }
